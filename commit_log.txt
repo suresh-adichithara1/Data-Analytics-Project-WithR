@@ -1,0 +1,69 @@
+[2025-01-01] Committing: 1_Hands-On-Activity--Create-your-own-data-frame3_SPA.txt
+[2025-01-01] Committing: backdated_push.sh
+[2025-01-01] Committing: Cambiar_Datos/assets/delete_employee.png
+[2025-01-02] Committing: Cambiar_Datos/assets/insert_employee.png
+[2025-01-02] Committing: Cambiar_Datos/assets/insert_employee_2.png
+[2025-01-03] Skipping day
+[2025-01-04] Skipping day
+[2025-01-05] Skipping day
+[2025-01-06] Committing: Cambiar_Datos/assets/intro.png
+[2025-01-06] Committing: Cambiar_Datos/assets/post_update_employee.png
+[2025-01-06] Committing: Cambiar_Datos/assets/select_employee.png
+[2025-01-07] Committing: Cambiar_Datos/assets/select_query1.png
+[2025-01-08] Skipping day
+[2025-01-09] Committing: Cambiar_Datos/assets/select_query2.png
+[2025-01-09] Committing: Cambiar_Datos/assets/update_employee.png
+[2025-01-10] Committing: Cambiar_Datos/assets/update_employee_1.png
+[2025-01-10] Committing: Cambiar_Datos/assets/update_employee_2.png
+[2025-01-10] Committing: Cambiar_Datos/assets/update_employee_3.png
+[2025-01-11] Committing: Cambiar_Datos/backdated_push.sh
+[2025-01-11] Committing: Cambiar_Datos/commit_log.txt
+[2025-01-11] Committing: Cambiar_Datos/compdb_dml.py
+[2025-01-12] Committing: Cambiar_Datos/injection_demo/index.html
+[2025-01-13] Committing: Cambiar_Datos/injection_demo/prepared_select.php
+[2025-01-13] Committing: Cambiar_Datos/injection_demo/select.php
+[2025-01-13] Committing: Cambiar_Datos/injection_demo/update.php
+[2025-01-14] Committing: Cambiar_Datos/java_console/bin/QueryConsole$1.class
+[2025-01-15] Skipping day
+[2025-01-16] Committing: Cambiar_Datos/java_console/bin/QueryConsole.class
+[2025-01-17] Skipping day
+[2025-01-18] Committing: Cambiar_Datos/java_console/bin/SQLConsole$ColumnMeta.class
+[2025-01-18] Committing: Cambiar_Datos/java_console/bin/SQLConsole.class
+[2025-01-18] Committing: Cambiar_Datos/java_console/lib/build.xml
+[2025-01-19] Committing: Cambiar_Datos/java_console/lib/CHANGES
+[2025-01-19] Committing: Cambiar_Datos/java_console/lib/INFO_BIN
+[2025-01-19] Committing: Cambiar_Datos/java_console/lib/INFO_SRC
+[2025-01-20] Committing: Cambiar_Datos/java_console/lib/LICENSE
+[2025-01-21] Skipping day
+[2025-01-22] Committing: Cambiar_Datos/java_console/lib/mysql-connector-j-9.3.0.jar
+[2025-01-22] Committing: Cambiar_Datos/java_console/lib/README
+[2025-01-22] Committing: Cambiar_Datos/java_console/src/QueryConsole.java
+[2025-01-23] Committing: Cambiar_Datos/java_console/src/SQLConsole.java
+[2025-01-23] Committing: Cambiar_Datos/LICENSE
+[2025-01-23] Committing: Cambiar_Datos/old_versions/4347_EER.pdf
+[2025-01-24] Skipping day
+[2025-01-25] Skipping day
+[2025-01-26] Skipping day
+[2025-01-27] Committing: Cambiar_Datos/old_versions/4347_ER.pdf
+[2025-01-27] Committing: Cambiar_Datos/old_versions/4347_LM.pdf
+[2025-01-28] Skipping day
+[2025-01-29] Committing: Cambiar_Datos/old_versions/EER-to-Relational Mapping.pdf
+[2025-01-29] Committing: Cambiar_Datos/old_versions/ERD.mwb
+[2025-01-29] Committing: Cambiar_Datos/old_versions/ERD_PROJECT.sql
+[2025-01-30] Committing: Cambiar_Datos/old_versions/PROJECT_INITIAL_DDL.sql
+[2025-01-31] Committing: Cambiar_Datos/PROJECT CODE.sql
+[2025-01-31] Committing: Cambiar_Datos/project docs/DEPENDENCY_DIAGRAM.svg
+[2025-02-01] Skipping day
+[2025-02-02] Committing: Cambiar_Datos/project docs/EER_MODEL.pdf
+[2025-02-02] Committing: Cambiar_Datos/project docs/ER_MODEL.pdf
+[2025-02-02] Committing: Cambiar_Datos/project docs/LOGICAL_MODEL.pdf
+[2025-02-03] Committing: Cambiar_Datos/project docs/PROJECT INFO.pdf
+[2025-02-03] Committing: Cambiar_Datos/project docs/QUERY RESULTS.pdf
+[2025-02-03] Committing: Cambiar_Datos/qDpVuKSpTK26VbikqRytMA_835a67c433244e51b3a91acc5c76fff1_Hands-On-Activity--Changing-your-data2_SPA.csv
+[2025-02-04] Committing: Cambiar_Datos/README.md
+[2025-02-04] Committing: Cambiar_Datos/rgceBpA7T4WHHgaQOw-F5Q_aa5fefcbff4f4977afccfc0a99ea63f1_Hands-On-Activity--Changing-your-data1_SPA.txt
+[2025-02-05] Committing: Cambiar_Datos/skipped_files.log
+[2025-02-05] Committing: Cambiar_Datos/sql_project_initial_dml.py
+[2025-02-06] Skipping day
+[2025-02-07] Committing: Cambiar_Datos/XMkmxVxcSCKJJsVcXDgi3w_06a7ed0640c54e969af036d6ae3362f1_Hands-On-Activity--Changing-your-data3_SPA.txt
+[2025-02-08] Committing: commit_log.txt
